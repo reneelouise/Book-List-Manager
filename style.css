@@ -1,0 +1,37 @@
+
+body{
+    background-color: #F9F3DF;
+}
+
+
+
+.success .error{
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success{
+    background-color: green;
+}
+.error{
+    background-color: red;
+}
+
+
+#submit{
+    background-color:black;
+    color: white;
+    border: 2px solid #FFC898;
+}
+
+#submit:hover{
+    border: 2px solid black;
+    background-color: #FFC898;
+
+
+}
+
+h1{
+    text-align: center;
+}
